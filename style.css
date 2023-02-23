@@ -14,7 +14,7 @@ h2{
 p{
     font-style: italic;
 }
-.principal{
+h2+p{
     font-weight: bold;
 }
 img {
