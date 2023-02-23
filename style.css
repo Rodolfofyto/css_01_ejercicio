@@ -25,6 +25,10 @@ img:hover {
     transform: scale(5);
     border: solid 3px blue;
 }
+a {
+    text-decoration: none;
+    color: black;
+}
 a:link{
  color: red;
 }
